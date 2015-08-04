@@ -1,0 +1,7 @@
+require 'lolfaker/ability'
+require 'lolfaker/character'
+require 'lolfaker/item'
+require 'lolfaker/location'
+require 'lolfaker/mastery'
+require 'lolfaker/role'
+require 'lolfaker/spell'
