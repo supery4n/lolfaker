@@ -50,7 +50,7 @@ LOLFaker::Spell.name          #=> "Exhaust"
 ```
 Contact
 -------
-If you have any suggestions or comments please contact Miranda Pakozdi aka super_yan via email (super.y4n@gmail.com).
+If you have any suggestions or comments please contact Miranda Pakozdi aka super_yan via [email](super.y4n@gmail.com).
 
 License
 -------
