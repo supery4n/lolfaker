@@ -1,6 +1,6 @@
 LOLFaker
 =====
-This gem is meant to add a little fun to making fake data for populating a database in development.
+This gem is meant to quickly populate your database with fake League of Legends themed data for testing/development purposes.
 
 Installing
 ----------
